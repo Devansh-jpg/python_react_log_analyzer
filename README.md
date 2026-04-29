@@ -24,7 +24,7 @@ The frontend is built with React, providing a user-friendly interface to interac
 
 
 ```bash
-git clone https://github.com/ishworrsubedii/python_react_log_analyzer.git
+git clone https://github.com/Devansh-jpg/python_react_log_analyzer.git
 
 ```
 2. Navigate to the project directory
